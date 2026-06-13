@@ -6,9 +6,10 @@
     "whatsapp",
     "baileys",
     "whatsapp-web",
-    "whatsapp-chat",
-    "whatsapp-group",
-    "botwa"
+    "whatsapp-telegram",
+    "botbug",
+    "botwa",
+    "badzzne"
   ],
   "homepage": "https://github.com/Badzz88/baileys",
   "repository": {
